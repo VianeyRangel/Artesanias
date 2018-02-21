@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_size">10dp</dimen>
+    <dimen name="margin_top">30dp</dimen>
+    <dimen name="text_size">24dp</dimen>
+    <dimen name="txt_size">20dp</dimen>
+    <dimen name="title_size">50dp</dimen>
+    <dimen name="imv_size">160pt</dimen>
+    <dimen name="img_size">200pt</dimen>
+</resources>
